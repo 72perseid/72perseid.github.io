@@ -4,7 +4,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Raleway', 'Arial', sans-serif;
+    font-family:'Handlee', 'Arial', sans-serif;
     padding: 0px;
     list-style: none;
     font-weight: 600;
@@ -22,13 +22,13 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Raleway', sans-serif;
+    font-family:'Handlee', sans-serif;
 }
 p {
     font-size: 1.25em;
     line-height: 1.4em;
     color: #666;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 footer {
     border-top: 1px solid #d5d5d5;
